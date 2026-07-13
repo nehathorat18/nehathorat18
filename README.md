@@ -13,8 +13,8 @@
 3+ years of IT experience with a growing focus on DevOps, Cloud, and Automation. Building hands-on projects with Docker, Kubernetes, Linux, and AWS while exploring CI/CD and Infrastructure as Code to create reliable and scalable systems.
 
 - 🔧 Currently building through the [90DaysOfDevOps](https://github.com/nehathorat18/90DaysOfDevOps/tree/master/2026) challenge
-- 📜 Preparing for: **AWS Certified Cloud Practitioner Essentials**
-- 🌱 Diving deep into cloud fundamentals and DevOps practices
+- 🌱 Diving deep into DevOps and cloud
+- 💡 Interested in CI/CD, Infrastructure as Code and Container Orchestration
 - 📫 Reach me at: **neha.sanjay.thorat@gmail.com**
 
 ---
@@ -79,6 +79,11 @@
 
 ---
 
+### 🎓 Certifications
+
+- **AWS Certified Cloud Practitioner Essentials** ✅
+
+---
 ### 📌 Featured Projects
 
 **[90DaysOfDevOps](https://github.com/nehathorat18/90DaysOfDevOps/tree/master/2026)**
@@ -89,6 +94,10 @@ A shell script that collects and reports system information for quick health/sta
 
 **[Docker 3-Tier App](https://github.com/your-username/project-repo)**
 A 3-tier application (frontend, backend, database) fully containerized with Docker.
+
+---
+
+
 
 ---
 
