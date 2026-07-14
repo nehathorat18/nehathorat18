@@ -77,6 +77,10 @@
   <img src="https://streak-stats.demolab.com/?user=nehathorat18&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehathorat18&theme=minimal&hide_border=true" />
+</p>
+
 ---
 
 ### 🎓 Certifications
@@ -97,8 +101,5 @@ A 3-tier application (frontend, backend, database) fully containerized with Dock
 
 ---
 
-
-
----
 
 <p align="center"><i>🚀 Automating today, so tomorrow deploys itself. Thanks for stopping by!</i></p>
