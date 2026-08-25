@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nehathorat18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=neha.sanjay.thorat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=nehathorat18&color=blueviolet&style=flat" alt="Profile views" />
+ 
 </p>
 </p>
 
