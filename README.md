@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-Application Development Analyst with 3.5+ years of experience, independently building DevOps expertise in Docker, Kubernetes, CI/CD & AWS. Maintaining 99% SLA at Accenture through automation and shift-left practices.
+Application Development Analyst with 4 years of experience, independently building DevOps expertise in Docker, Kubernetes, CI/CD & AWS. Maintaining 99% SLA at Accenture through automation and shift-left practices.
 
 - 💼 Currently: **Application Development Analyst @ Accenture** (Sep 2022 – Present)
 - 🔧 Built **DevBoard**, an end-to-end containerized DevSecOps CI/CD platform (see below)
